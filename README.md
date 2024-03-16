@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @bechir23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-bechir23/bechir23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Programming: I enjoy coding in Python, JavaScript, and Java. I'm particularly interested in web development and building applications.
+- Data Science: I love working with data, analyzing trends, and building predictive models.
+- Machine Learning: I'm passionate about exploring algorithms and techniques for machine learning and artificial intelligence.
+- Photography: I enjoy capturing moments and exploring different perspectives through photography.
+- Hiking: I love spending time outdoors, exploring nature, and going on adventures.
