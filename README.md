@@ -1,5 +1,3 @@
 - Programming: I enjoy coding in Python, JavaScript, and Java. I'm particularly interested in web development and building applications.
 - Data Science: I love working with data, analyzing trends, and building predictive models.
 - Machine Learning: I'm passionate about exploring algorithms and techniques for machine learning and artificial intelligence.
-- Photography: I enjoy capturing moments and exploring different perspectives through photography.
-- Hiking: I love spending time outdoors, exploring nature, and going on adventures.
