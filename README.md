@@ -1,12 +1,33 @@
 ---
+## 👨‍💻 About Me  
 
-## 👨‍💻 About Me
-Hi there! 👋 I’m Bechir Ben Tekfa, an AI/ML and Python Developer with expertise in Deep Learning, Machine Learning, and Web Scraping. I am driven by a passion for creating innovative AI-powered solutions. As a researcher at **Syddansk Universitet**, I specialize in **Artificial Intelligence, Computer Vision, and real-time data processing**, helping businesses leverage AI for automation, efficiency, and growth.
+---
+
+<div align="center">
+  <h2>
+    <span id="changing-text" style="color: #007bff;">Mastering ML</span>
+  </h2>
+</div>
+
+<script>
+  const textElement = document.getElementById("changing-text");
+  const texts = ["Mastering ML", "Mastering AI"];
+  let index = 0;
+
+  setInterval(() => {
+    textElement.textContent = texts[index];
+    index = (index + 1) % texts.length;
+  }, 1000);
+</script>
+
+---
+
+Hi there! 👋 I’m **Bechir Ben Tekfa**, passionate about **Artificial Intelligence and Machine Learning**, and skilled at building **cutting-edge AI solutions**.
 
 ---
 
 ## 🔹 Core Skills & Expertise
-### 🤖 Artificial Intelligence & Machine Learning (AI/ML)
+### 🤖 Artificial Intelligence & Machine Learning (AI/ML) 
 - Developing and deploying AI-driven applications
 - Supervised & Semi-Supervised Learning for predictive analytics
 - Deep Learning & Neural Networks for automation and AI-driven decision-making
@@ -66,12 +87,5 @@ Hi there! 👋 I’m Bechir Ben Tekfa, an AI/ML and Python Developer with expert
 
 ---
 
-## 🎖️ Support My Work
-<p><a href="https://ko-fi.com/Bechir"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Bechir" /></a></p>
-
----
-
 ## 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bechir23&show_icons=true&locale=en" alt="bechir23" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bechir23&" alt="bechir23" /></p>
