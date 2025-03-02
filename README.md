@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Bechir Ben Tekfa</h1>
+<h1 align="center">Hi 👋, I'm Bechir Ben Tekfa</h1>
 <h3 align="center">Machine Learning / Artificial Intelligence</h3>
 
 <h3 align="left">Connect with me:</h3>
