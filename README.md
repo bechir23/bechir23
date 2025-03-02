@@ -1,13 +1,12 @@
 ---
-## 👨‍💻 About Me  
+
+Hi there! 👋 I’m **Bechir Ben Tekfa**, passionate about **Artificial Intelligence and Machine Learning**, and skilled at building **cutting-edge AI solutions**.
 
 <div align="center">
   <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=007BFF&center=true&vCenter=true&repeat=true&width=435&lines=Mastering+ML;Mastering+AI" alt="Mastering ML and AI">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1500&color=007BFF&center=true&vCenter=true&repeat=true&width=600&lines=Exploring+the+Depths+of+AI...;Pushing+the+Boundaries+of+ML...;Shaping+the+Future+with+AI...;Mastering+ML+%26+AI!" alt="AI & ML Mastery">
   </h2>
 </div>
-
-Hi there! 👋 I’m **Bechir Ben Tekfa**, passionate about **Artificial Intelligence and Machine Learning**, and skilled at building **cutting-edge AI solutions**.
 
 ---
 
