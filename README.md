@@ -1,6 +1,10 @@
 ---
 
-Hi there! 👋 I’m **Bechir Ben Tekfa**, passionate about **Artificial Intelligence and Machine Learning**, and skilled at building **cutting-edge AI solutions**.
+<div align="center">
+  <h1>🚀 Welcome Aboard, Explorer! 🚀</h1>
+  <h3>I’m <strong>Bechir Ben Tekfa</strong>, passionate about <strong>Artificial Intelligence & Machine Learning</strong>, and skilled at building <strong>cutting-edge AI solutions</strong>.</h3>
+  <p>Let’s push the boundaries of innovation together. 🌍🤖</p>
+</div>
 
 <div align="center">
   <h2>
