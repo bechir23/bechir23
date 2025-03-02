@@ -1,26 +1,11 @@
 ---
 ## 👨‍💻 About Me  
 
----
-
 <div align="center">
   <h2>
-    <span id="changing-text" style="color: #007bff;">Mastering ML</span>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=007BFF&center=true&vCenter=true&repeat=true&width=435&lines=Mastering+ML;Mastering+AI" alt="Mastering ML and AI">
   </h2>
 </div>
-
-<script>
-  const textElement = document.getElementById("changing-text");
-  const texts = ["Mastering ML", "Mastering AI"];
-  let index = 0;
-
-  setInterval(() => {
-    textElement.textContent = texts[index];
-    index = (index + 1) % texts.length;
-  }, 1000);
-</script>
-
----
 
 Hi there! 👋 I’m **Bechir Ben Tekfa**, passionate about **Artificial Intelligence and Machine Learning**, and skilled at building **cutting-edge AI solutions**.
 
