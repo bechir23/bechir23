@@ -1,9 +1,9 @@
 ---
 
 <div align="center">
-  <h1>🚀 Welcome Aboard, Explorer! 🚀</h1>
+  <h1> Welcome Aboard, Explorer! </h1>
   <h3>I’m <strong>Bechir Ben Tekfa</strong>, passionate about <strong>Artificial Intelligence & Machine Learning</strong>, and skilled at building <strong>cutting-edge AI solutions</strong>.</h3>
-  <p>Let’s push the boundaries of innovation together. 🌍🤖</p>
+  <p>Let’s push the boundaries of innovation together. </p>
 </div>
 
 <div align="center">
@@ -14,39 +14,39 @@
 
 ---
 
-## 🔹 Core Skills & Expertise
-### 🤖 Artificial Intelligence & Machine Learning (AI/ML) 
+##  Core Skills & Expertise
+###  Artificial Intelligence & Machine Learning (AI/ML) 
 - Developing and deploying AI-driven applications
 - Supervised & Semi-Supervised Learning for predictive analytics
 - Deep Learning & Neural Networks for automation and AI-driven decision-making
 - Optimizing models for real-time performance & efficiency
 
-### 👁️ Computer Vision & Image Processing
+###  Computer Vision & Image Processing
 - Defect detection & anomaly classification (Industrial AI, Renewable Energy)
 - Object Detection & Image Recognition for automation & smart systems
 - AI-powered Image & Video Analytics
 
-### 🧠 Large Language Models (LLMs) & Natural Language Processing (NLP)
+###  Large Language Models (LLMs) & Natural Language Processing (NLP)
 - Building AI-powered chatbots & automation systems
 - Text Processing, Sentiment Analysis, and Document Classification
 - Fine-tuning and optimizing LLMs for business applications
 
-### 🎙️ Speech Processing & Voice AI
+###  Speech Processing & Voice AI
 - Implementing Speech-to-Text (STT) & Text-to-Speech (TTS) solutions
 - Developing voice-based AI assistants & automation systems
 
-### 🚀 Edge AI & Scalable AI Deployment
+###  Edge AI & Scalable AI Deployment
 - Real-time AI processing on NVIDIA Jetson & IoT devices
 - Deploying optimized AI solutions for low-power & real-world applications
 
-### 📊 Data Science, Big Data & Automation
+###  Data Science, Big Data & Automation
 - Data analysis, pattern recognition, and automation for business intelligence
 - ETL & Data Pipelines for handling large-scale structured & unstructured data
 - Web scraping & automated data collection for AI-driven insights
 
 ---
 
-## 🔹 Tools & Technologies
+##  Tools & Technologies
 - **AI & ML**: Python (PyTorch, TensorFlow, scikit-learn), OpenAI API, Hugging Face
 - **Data Science**: Pandas, NumPy, SQL, PySpark, Big Data Processing
 - **Edge AI & Deployment**: NVIDIA Jetson, Docker, TensorRT, ONNX
@@ -55,7 +55,7 @@
 
 ---
 
-## 📞 Connect With Me
+##  Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/bechirbentekfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bechirbentekfa" height="30" width="40" /></a>
 <a href="https://kaggle.com/bechirbentekfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bechirbentekfa" height="30" width="40" /></a>
